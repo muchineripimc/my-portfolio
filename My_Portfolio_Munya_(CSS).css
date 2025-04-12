@@ -1,0 +1,74 @@
+﻿body {
+  text-align: center;
+    font-size: 15pt;
+    background-color: cyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1 {
+ background-color: tan;
+ border-radius: 10px;
+ border: outset;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+  
+}
+
+h3 {
+  background-color: blanchedalmond;
+  border-radius: 10px;
+  border: inset;
+  margin: 20px;
+}
+
+.myImage {
+  height: 240px;
+  width: 240px;
+  margin: auto;
+  border-color: red;
+ 
+}
+.bio {
+  background-color: yellowgreen;
+  border-radius: 10px;
+}
+.socialMedia {
+  margin: 20px
+  
+}
+.copy {
+  height: 3px;
+  border-color: greenyellow;
+
+}
+a {
+text-decoration: none;
+border-spacing: 10px;
+}
+.myImage {
+  src: url(#);
+}
+.facebook {
+  
+ 
+}
+.linkedIn {
+  
+ 
+}
+.tiktok {
+  
+}
+.instagram {
+
+  
+}
+.youtube {
+  
+}
+.myWebsite {
+  
+}
+.contactNumber{
+  
+}
